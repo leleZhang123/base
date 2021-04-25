@@ -2,6 +2,7 @@
 # c语言总结
 ## 1.进入到文件目录
 `cd study`
+#
 `gcc hello.c`
 ## 2.修改为Hello.c进行编译
 `gcc main.c -o Hello.c`
