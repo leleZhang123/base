@@ -23,3 +23,7 @@
 ## 3.运行.c 文件
 `.\hello`
 ## 4.visual Code git 提交
+> git add  .文件名  添加提交
+> git commin -m"信息" 文件
+> git push
+
