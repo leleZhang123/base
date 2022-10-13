@@ -6,5 +6,6 @@ int main(int argc, char const *argv[])
     printf("%.2f\n",8.0/5.0);//1.50
     printf("%.1f\n",8/5);//0.0
     printf("%d\n",8.0/5.0);//-1717986918
+    
     return 0;
 }
